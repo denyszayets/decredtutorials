@@ -1,3 +1,7 @@
+# DECRED 101: SETUP A NEW WALLET
+## TUTORIAL AUDIO TRANSCRIPT
+
+
 1. Hello. In this tutorial, I will show you how to download and set up your Decred Wallet.
 2. Let's open our browser, and go to the official website, decred.org
 3. Decrediton is available on Mac, Linux, and Windows 
